@@ -6,5 +6,5 @@
 
 ###primeAccounts.txt
 	-Contains twitter accounts for which we want to fetch followers for
-	-format: <screen name> <name> <number of followers to be fetched> seperated by a comma
+	-format: <user id> <screen name> <name> <number of followers to be fetched> seperated by a comma
 	
