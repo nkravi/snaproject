@@ -1,4 +1,4 @@
-##contains data for the project
+##contains data for sna project
 
 ###twitterCreds.txt
 	-contains  twitter credentials
