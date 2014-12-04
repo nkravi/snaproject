@@ -1,1 +1,9 @@
-649123,narendramodi,Narendra Modi prime minister of India,300
+18839785,narendramodi,Narendra Modi prime minister of India,300
+135421739,sachin_rt,cricket player from India,300
+132385468,BeingSalmanKhan,salman khan actor from India,300
+131574396,dilmabr,Dilma Rousseff politician from Brazil,300
+158487331,neymarjr,Neymar Jr soccer player from Brazil,300
+150697226,aliceb_oficial,Alice Braga actress from Brazil,300
+7401202,Stephen Harper,Stephen Harper prime minister of canada,300
+581437101,dedication9trey,foot ball player from canada,300
+731379950,David_Acer,David Acer comedian canada,300
