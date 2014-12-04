@@ -1,6 +1,13 @@
 #SOCIAL NETWORK ANALYSIS
 ###project for [cs-579] 
 
+### Files
+- [data] contais files required for the project
+- [code] contains ipython notebooks
+- [presentation] contains results of our project
+- [python-scripts] contain scripts to collect data
+
+
 ### Installation
 ```sh
 Install python
@@ -17,3 +24,7 @@ Run dataprocessing.ipynb for data processing
 
 
 [cs-579]:https://github.com/iit-cs579/main/tree/master/project
+[data]:https://github.com/nravi89/snaproject/tree/master/data
+[code]:https://github.com/nravi89/snaproject/tree/master/code
+[presentation]:https://github.com/nravi89/snaproject/tree/master/presentation
+[python-scripts]:https://github.com/nravi89/snaproject/tree/master/python-scripts
