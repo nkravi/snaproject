@@ -1,4 +1,4 @@
-#SOCIAL NETWORK ANALYSIS
+#Ethnicity prediction using popular twitter accounts
 ###project for [cs-579] 
 
 ### Files
